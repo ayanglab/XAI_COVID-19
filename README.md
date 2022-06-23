@@ -13,7 +13,7 @@ IEEE Transactions on Emerging Topics in Computational Intelligence
 If you use this repository for your research, please cite our paper:
 
 ```
-@article{li2020unified,
+@article{li2022exai,
   title={Explainable COVID-19 Infections Identification and Delineation Using Calibrated Pseudo Labels},
   author={Ming Li, Yingying Fang, Zeyu Tang, Chibudom Onuorah, Jun Xia, Javier Del Ser, Simon Walsh, Guang Yang},
   journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
